@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheLordofSea
 - 👀 I’m interested in Cybersecurity, pentesting and cloud.
 - 🌱 I’m currently learning python, linux and networking. 
-- 💞️ I’m looking to collaborate on beginner
+- 💞️ I’m looking to collaborate on beginner frendly for now.
 - 📫 How to reach me amanpandit511@gmail.com
 
 <!---
